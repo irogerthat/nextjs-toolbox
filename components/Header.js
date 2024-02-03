@@ -3,23 +3,8 @@ export default function Header({ title }) {
     <>
       <h1 className="title">{title}</h1>
       <p>
-        Hi 👋! This template gives you a{" "}
-        <a href="https://nextjs.org/">Next.js</a> app with the scaffolding for{" "}
-        <a href="https://www.netlify.com/products/functions/">
-          Netlify Functions
-        </a>
-        , <a href="https://www.netlify.com/products/forms/">Forms</a>, and{" "}
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
-        aim was to give you the code you would need to hit the ground running
-        with a few fun features.
-      </p>
-
-      <p>
-        You can find the code for this project on GitHub at{" "}
-        <a href="https://github.com/netlify-templates/nextjs-toolbox">
-          https://github.com/netlify-templates/nextjs-toolbox
-        </a>
-        ! Happy coding!
+       Hey there 👋! I'm Olivia, your friendly neighborhood code sorceress, and I'm on a mission to transform ideas into digital magic.
+        As a passionate software developer and indie hacker, I thrive on the thrill of creating innovative solutions that make a real impact.
       </p>
     </>
   );
